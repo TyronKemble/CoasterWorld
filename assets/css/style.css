@@ -1,0 +1,25 @@
+li {
+    list-style-type: none;
+}
+
+.recent-Work-Hyperlinks {
+    margin-bottom: 15px;
+}
+
+.recent-Work {
+    display:inline; 
+}
+
+.recent-work-MainText {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 10px;  
+}
+
+.mainTextMargin-top {
+margin-top: 25px;
+}
+
+.underTextMargin-bottom {
+margin-bottom: 32px;
+}
